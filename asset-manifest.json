@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/homepage/static/css/main.cdc6a4ed.chunk.css",
-    "main.js": "/homepage/static/js/main.7634a2b1.chunk.js",
-    "main.js.map": "/homepage/static/js/main.7634a2b1.chunk.js.map",
+    "main.css": "/homepage/static/css/main.4d1da3fd.chunk.css",
+    "main.js": "/homepage/static/js/main.0bf49c68.chunk.js",
+    "main.js.map": "/homepage/static/js/main.0bf49c68.chunk.js.map",
     "runtime-main.js": "/homepage/static/js/runtime-main.a9d38427.js",
     "runtime-main.js.map": "/homepage/static/js/runtime-main.a9d38427.js.map",
-    "static/js/2.c278065f.chunk.js": "/homepage/static/js/2.c278065f.chunk.js",
-    "static/js/2.c278065f.chunk.js.map": "/homepage/static/js/2.c278065f.chunk.js.map",
+    "static/js/2.43d7a0fe.chunk.js": "/homepage/static/js/2.43d7a0fe.chunk.js",
+    "static/js/2.43d7a0fe.chunk.js.map": "/homepage/static/js/2.43d7a0fe.chunk.js.map",
     "index.html": "/homepage/index.html",
-    "static/css/main.cdc6a4ed.chunk.css.map": "/homepage/static/css/main.cdc6a4ed.chunk.css.map",
-    "static/js/2.c278065f.chunk.js.LICENSE.txt": "/homepage/static/js/2.c278065f.chunk.js.LICENSE.txt",
+    "static/css/main.4d1da3fd.chunk.css.map": "/homepage/static/css/main.4d1da3fd.chunk.css.map",
+    "static/js/2.43d7a0fe.chunk.js.LICENSE.txt": "/homepage/static/js/2.43d7a0fe.chunk.js.LICENSE.txt",
     "static/media/HÖNING.6cf4bbf9.png": "/homepage/static/media/HÖNING.6cf4bbf9.png",
     "static/media/jodel.gif": "/homepage/static/media/jodel.9f6b7b74.gif",
     "static/media/mobileGame.jpg": "/homepage/static/media/mobileGame.a4292253.jpg",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a9d38427.js",
-    "static/js/2.c278065f.chunk.js",
-    "static/css/main.cdc6a4ed.chunk.css",
-    "static/js/main.7634a2b1.chunk.js"
+    "static/js/2.43d7a0fe.chunk.js",
+    "static/css/main.4d1da3fd.chunk.css",
+    "static/js/main.0bf49c68.chunk.js"
   ]
 }
